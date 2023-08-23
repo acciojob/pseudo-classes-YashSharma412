@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+:root{
+	margin: 0px;
+	padding: 0px;
+	background-color: rgb(135, 206, 235);
+}
+article:first-child{
+	color: white;
+	background-color: black;
+}
+
+
